@@ -1,4 +1,4 @@
-Recipe by person A 
+Recipe by person B 
 
 # Ingredients
 - avocado
